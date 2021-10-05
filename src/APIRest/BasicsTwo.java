@@ -33,6 +33,7 @@ public class BasicsTwo {
 						.asString();
 				System.out.println(Response);
 				
+				System.out.println(Response);
 			
 				//add place-->Update Place-->get place to validate if new address is present
 				//JsonPath js=new JsonPath(Response);// for converting string to json
